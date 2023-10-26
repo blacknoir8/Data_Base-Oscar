@@ -112,11 +112,9 @@ RESPOSTA:
 
     
 16) Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. Agora me diz: Quê prêmio essa pessoa merece? 
-RESPOSTA: Minha mãe que sempre me ajuda com qualquer dificuldade da vida e minha família, esposa e filhos.
+RESPOSTA: Minha mãe que sempre me ajuda com qualquer dificuldade da vida e minha família
 INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '93', 'Melhor mãe', 'Irailde Moura', 'Melhor mãe do mundo', '1');
 INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '93', 'Família', 'Sarah Muniz e filhos', 'Melhor família do mundo', '1');
 
-RESPOSTA: 
-10397	2022	2023	93	Melhor mãe	Irailde Moura	Melhor mãe do mundo	1
-10398	2022	2023	93	Família	Sarah Muniz e filhos Melhor família do mundo	1
+
 
